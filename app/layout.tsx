@@ -9,14 +9,18 @@ export const metadata: Metadata = {
   description: 'Experience the future of Sony products enhanced by AI technology. Discover innovative cameras, headphones, speakers, and more with intelligent features that adapt to your lifestyle.',
   keywords: 'Sony, AI, artificial intelligence, cameras, headphones, speakers, technology, innovation',
   authors: [{ name: 'Sony AI Team' }],
-  viewport: 'width=device-width, initial-scale=1',
-  themeColor: '#1e40af',
   openGraph: {
     title: 'Sony AI - Technology Reimagined',
     description: 'Experience the future of Sony products enhanced by AI technology.',
     type: 'website',
     locale: 'en_US',
   },
+}
+
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#1e40af',
 }
 
 export default function RootLayout({
