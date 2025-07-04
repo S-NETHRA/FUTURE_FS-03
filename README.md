@@ -4,6 +4,8 @@
 
 This project is a complete redesign of Sony's website using modern web technologies and AI-inspired design elements. The website showcases Sony's product lineup with an emphasis on artificial intelligence integration and cutting-edge user experience.
 
+<!-- Deployment update: Environment variables configured for Vercel -->
+
 ### 🎯 Project Goals
 - Modernize Sony's brand presence with AI-focused messaging
 - Create a responsive, mobile-first design
